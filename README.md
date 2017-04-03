@@ -1,4 +1,4 @@
-# Output Manager Example - Streams
+# Output Manager Example - File output
 [Output Manager](https://www.npmjs.com/package/output-manager) is used to solve many of the pain points around JavaScript logging.  This is designed to be an example of how to use [output-manager](https://www.npmjs.com/package/output-manager) to dump logging/output information to a file.
 
 ## Getting started
