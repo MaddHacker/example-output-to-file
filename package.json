@@ -29,6 +29,7 @@
   "license": "Apache-2.0",
   "homepage": "https://github.com/MaddHacker/example-output-to-file#readme",
   "dependencies": {
+    "date-utilz": "0.0.1",
     "output-manager": "^3.0.0"
   },
   "devDependencies": {
